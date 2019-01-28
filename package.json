@@ -1,0 +1,21 @@
+{
+  "name": "jschool-javascripter",
+  "description": "Learn the basics from variables, data structures, strings, loops, conditionals, to objects and functions before we jump into more advanced topics.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/davidcunha/jschool-javascripter.git"
+  },
+  "author": "davidcunha",
+  "bin": {
+    "jschool-javascripter": "./bin/jschool-javascripter"
+  },
+  "main": "./index.js",
+  "preferGlobal": true,
+  "dependencies": {
+    "colors": "^1.0.3",
+    "promise": "^7.1.1",
+    "diff": "^1.2.1",
+    "workshopper-adventure": "^6.0.3"
+  },
+  "license": "MIT"
+}
