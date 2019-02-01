@@ -1,7 +1,7 @@
 {
   "name": "jschool-javascripter",
   "description": "Learn the basics from variables, data structures, strings, loops, conditionals, to objects and functions before we jump into more advanced topics.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "url": "https://github.com/davidcunha/jschool-javascripter.git"
   },
